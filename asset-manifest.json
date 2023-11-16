@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.d6f8855c.css",
+    "main.js": "/Portfolio/static/js/main.8c39cd3d.js",
+    "static/js/787.5c4f5366.chunk.js": "/Portfolio/static/js/787.5c4f5366.chunk.js",
+    "static/media/milkball.webm": "/Portfolio/static/media/milkball.0d89aa560c4bbab24989.webm",
+    "static/media/travelsite-mcup.png": "/Portfolio/static/media/travelsite-mcup.9884f7304921e0273d28.png",
+    "static/media/Codec-Warm-ExtraBold-trial.ttf": "/Portfolio/static/media/Codec-Warm-ExtraBold-trial.a3776bb8a4e0aa2ce1fe.ttf",
+    "static/media/Codec-Cold-Regular-trial.ttf": "/Portfolio/static/media/Codec-Cold-Regular-trial.71c1f5add2c9eb8b29cb.ttf",
+    "static/media/Vilvamworks-mcup.jpg": "/Portfolio/static/media/Vilvamworks-mcup.a86d61424df9a9dd0fe9.jpg",
+    "static/media/PPMori-SemiBold.otf": "/Portfolio/static/media/PPMori-SemiBold.336abfe2da355e4fa8dd.otf",
+    "static/media/Portfolio-image.jpg": "/Portfolio/static/media/Portfolio-image.c2b1eb34923cabc08909.jpg",
+    "static/media/Dharani-resume.pdf": "/Portfolio/static/media/Dharani-resume.20190756613939af0f18.pdf",
+    "static/media/oldfolio-mcup.jpg": "/Portfolio/static/media/oldfolio-mcup.242545bba2eaafd823ee.jpg",
+    "static/media/jobportal mcup.jpg": "/Portfolio/static/media/jobportal mcup.cfde6c7ea000f003f95c.jpg",
+    "static/media/instagram.png": "/Portfolio/static/media/instagram.ac32ec0a111aeba03298.png",
+    "static/media/worm.png": "/Portfolio/static/media/worm.7a6ce752e48f129f7659.png",
+    "static/media/github.png": "/Portfolio/static/media/github.f11021803f68852df283.png",
+    "static/media/linkedin.png": "/Portfolio/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "index.html": "/Portfolio/index.html",
+    "main.d6f8855c.css.map": "/Portfolio/static/css/main.d6f8855c.css.map",
+    "main.8c39cd3d.js.map": "/Portfolio/static/js/main.8c39cd3d.js.map",
+    "787.5c4f5366.chunk.js.map": "/Portfolio/static/js/787.5c4f5366.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6f8855c.css",
+    "static/js/main.8c39cd3d.js"
+  ]
+}
