@@ -1,0 +1,79 @@
+.testimonial {
+    height: 100vh;
+    width: 90%;
+    position: relative;
+}
+
+.test-container {
+    width: 70%;
+    min-height: 254px;
+    margin: 4rem auto auto auto;
+    background: rgb(236, 236, 236);
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.test-head {
+    font-size: 6rem;
+    margin-left: 8rem;
+    margin-top: 6rem;
+    overflow: hidden;
+    font-family: codec;
+}
+
+.test-container img {
+    height: 100%;
+    width: 2rem;
+    margin: 3rem auto auto 3rem;
+}
+
+.test-words {
+    padding-right: 8rem;
+    padding-left: 8rem;
+    font-size: 1.45rem;
+    font-weight: 500;
+}
+
+.client {
+    text-align: right;
+    padding-top: 1rem;
+    padding-right: 2rem;
+    font-weight: 500;
+    padding-bottom: 2rem;
+    
+    font-weight: 700;
+}
+
+.testimonial  span {
+    color: #0ae448;
+}
+
+ .hline-testi {
+    position: absolute;
+    height: .09rem;
+    background-color: #373737;
+    width: 100%;
+    bottom: 0;
+  }
+  
+  @media (max-width: 600px){
+
+    .testimonial {
+        height: auto;
+    }
+
+    .test-container{
+        width: 95%;
+        margin-bottom: 8rem;
+    }
+
+    .test-words {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .test-head {
+        font-size: 2.5rem;
+        text-align: center;
+        margin-left: auto;
+    }
+  }
